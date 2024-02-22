@@ -20,5 +20,8 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.0"
+  },
+  "publishConfig": {
+    "@zcpaul:registry": "https://npm.pkg.github.com"
   }
 }
