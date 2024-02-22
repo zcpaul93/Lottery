@@ -2,7 +2,7 @@ require("@nomicfoundation/hardhat-toolbox");
 /** @type import('hardhat/config').HardhatUserConfig */
  
 
-const PRIVATE_KEY = "fd48588c504a8504d8fe0de0d47fb087f09ff67a8182984fc741346ff7204265";
+const PRIVATE_KEY = "xxxxxx";
 
 module.exports = {
   solidity: "0.8.17",
